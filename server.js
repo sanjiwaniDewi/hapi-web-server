@@ -13,6 +13,7 @@ const init = async () => {
     console.log(`Server berjalan pada ${server.info.uri}`);
 
     //coba
+    // coba ke 2
 };
 
 init();
