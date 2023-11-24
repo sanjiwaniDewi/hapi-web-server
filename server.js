@@ -14,6 +14,8 @@ const init = async () => {
 
     //coba
     // coba ke 2
+    //coba
+    // coba ke 2
 };
 
 init();
